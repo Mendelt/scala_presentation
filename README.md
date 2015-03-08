@@ -2,21 +2,24 @@
 
 1. Getting started
   1. Installing scala
-  2. Installing SBT (Scala build tool)
-  3. Typesafe stack
-  4. Scripting in scala
-  5. Unit testing in scala
+    * Scala package or download
+    * Use scala build tool (recommended)
+    * Install the typesafe stack.
+  2. Scala Hello world
+  3. SBT hello world
+  4. Unit testing in scala
+  5. Scala scripting
+  6. Scala REPL
 2. Basic features
-  1. Hello world
-  2. Returning values (imperative vs functional style)
-  3. Type inference
-  4. Mutable vs inmutable
-  5. Prefix vs infix method calls
+  1. Returning values (imperative vs functional style)
+  2. Type inference
+  3. Mutable vs inmutable
 3. Object Oriented Scala
   1. Objects vs classes
-  2. More OO than java, no value types
-  3. Traits
-  4. Case classes
+  2. Class constructors
+  3. Infix method calls
+  4. Traits
+  5. Case classes
 4. Functional Scala
   1. Lambda's
   2. Pattern matching
