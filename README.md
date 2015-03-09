@@ -19,10 +19,14 @@
   2. Class constructors
   3. Infix method calls
   4. Traits
-  5. Case classes
 4. Functional Scala
   1. Lambda's
   2. Currying
   3. Pattern matching
   4. Lazy evaluation
-
+5. What did I forget
+  1. Generics
+  2. Case classes
+  3. Annotations
+  4. Sequence comprehensions
+  5. Metaprogramming and domain specific languages
