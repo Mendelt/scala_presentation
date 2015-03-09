@@ -22,7 +22,7 @@
   5. Case classes
 4. Functional Scala
   1. Lambda's
-  2. Pattern matching
-  3. Currying
+  2. Currying
+  3. Pattern matching
   4. Lazy evaluation
 
